@@ -1,0 +1,17 @@
+logrotate state -- version 2
+"/home/home/.cache/upstart/bamfdaemon.log" 2017-4-23-10:25:34
+"/home/home/.cache/upstart/ssh-agent.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/window-stack-bridge.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/update-notifier-release.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/at-spi2-registryd.log" 2017-4-16-0:32:44
+"/home/home/.cache/upstart/gpg-agent.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/hud.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/unity7.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/unity-settings-daemon.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/upstart-event-bridge.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/indicator-sound.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/gnome-keyring-ssh.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/unity-panel-service.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/indicator-keyboard.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/dbus.log" 2017-4-23-14:27:46
+"/home/home/.cache/upstart/indicator-printers.log" 2017-4-23-14:27:46

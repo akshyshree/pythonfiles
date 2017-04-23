@@ -1,0 +1,8 @@
+
+(firefox:2326): Gtk-CRITICAL **: _gtk_tree_path_new_from_rbtree: assertion 'node != NULL' failed
+
+(firefox:2326): Gtk-CRITICAL **: _gtk_tree_path_new_from_rbtree: assertion 'node != NULL' failed
+
+(firefox:2326): Gtk-CRITICAL **: _gtk_tree_path_new_from_rbtree: assertion 'node != NULL' failed
+
+(firefox:2326): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
